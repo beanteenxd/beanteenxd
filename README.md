@@ -1,13 +1,7 @@
-<h1 align="center">
+<h1 align="center">Hi 👋, I'm Bean</h1>
+<h3 align="center">A passionate backend developer from USA.</h3> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
- 
-</h1>
-
-<h3 align="center">Hi 👋, I'm Bean</h3>
-<h3 align="center">A passionate backend developer from USA.</h3>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/67598470/208817572-dd860849-f484-4783-a4a3-1dc547d79bcf.png" width="30%" alt="beanteenxd"> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1041523946010447882/1054973046345183393/3dgifmaker57934.gif" width="30%" alt="beanteenxd"> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beanteenxd" alt="beanteenxd" /></a> </p>
 <br/>
 
