@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bean</h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+ 
+</h1>
+
+<h3 align="center">Hi 👋, I'm Bean</h3>
 <h3 align="center">A passionate backend developer from USA.</h3>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/67598470/208817572-dd860849-f484-4783-a4a3-1dc547d79bcf.png" width="30%" alt="beanteenxd"> </p>
